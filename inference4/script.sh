@@ -1,4 +1,3 @@
-
 #!/bin/bash
 IFS=$'\r\n'
 mkdir files
